@@ -1,0 +1,5 @@
+#!/bin/sh
+
+xsetroot -solid black
+notify-send "SolidWM quiting in 5 seconds"
+sleep 5

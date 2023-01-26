@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=solidwm
+Comment=solidwm window manager
+Exec=solidwm
+Type=XSession
