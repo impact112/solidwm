@@ -1,5 +1,10 @@
 # SolidWM
+## Deprecation notice:
+SolidWM is retired due to the fact that X11 is no longer relevant and wayland support on Nvidia is complete.
 
+My personal dotfiles for Hyprland are available [here](https://github.com/impact112/wm-dotfiles).
+
+---
 SolidWM is a fast and fully featured dynamic window manager.
 
 # Features
